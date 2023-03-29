@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Addit.AK.WBD.Logging.Logging" CodeBehind="Logging.svc.cs" %>
